@@ -1,0 +1,17 @@
+def __init__(self):
+    self.ornel = str
+
+
+def set_string(self, parametre):
+    self.ornel = parametre
+
+
+def print_string(self):
+    print(self.ornel)
+
+
+objet = stringFoo()
+
+objet.set_string('ornel')
+
+objet.print_string()
